@@ -2,4 +2,6 @@
 first one
 Hi,humans!
 .@&&#()!)#((@#&&^@$#*@#*))!+++!)9#++ 
-+_+ =_=！ sss
+
+
+printk("hello world");
